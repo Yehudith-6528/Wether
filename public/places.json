@@ -1,0 +1,26 @@
+[
+    {
+        "coordinates": {
+            "lat": 44,
+            "len": "dd"
+        },
+        "LocationName": "georgia",
+        "TemperatureInCelsius": 25
+    },
+    {
+        "coordinates": {
+            "lat": 44,
+            "len": "dd"
+        },
+        "LocationName": "georgia",
+        "TemperatureInCelsius": 25
+    },
+    {
+        "coordinates": {
+            "lat": 44,
+            "len": "dd"
+        },
+        "LocationName": "georgia",
+        "TemperatureInCelsius": 25
+    }
+]
